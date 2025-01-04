@@ -1,0 +1,14 @@
+Problem:
+Design a vehicle rental system that supports different vehicle types:
+
+Car
+Bike
+Truck
+Each vehicle should have a method rent(int duration) that calculates the rental cost based on the duration. 
+Use a factory to create vehicles based on customer preference.
+
+Requirements:
+
+Different pricing models for each vehicle type.
+Discount logic for longer rentals.
+Ensure invalid vehicle types are handled gracefully.

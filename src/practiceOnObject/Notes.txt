@@ -1,0 +1,4 @@
+Base class of all classes in java is Object.
+Why does ArrayList, LinkedList, HashMap etc. print their content in syso and our classes doesn't do it.?
+	-> Because these classes override the toString() function of Object class.
+	
